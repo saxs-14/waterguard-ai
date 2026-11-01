@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/assets/banner.svg" width="100%" alt="WaterGuard AI banner"/></p>
+
 # WaterGuard AI
 
 Smart water monitoring and leak-detection MVP, IoT-hardware-ready but demoable with zero
